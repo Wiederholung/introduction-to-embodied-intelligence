@@ -6,3 +6,6 @@ url: https://just-the-docs.github.io
 
 aux_links:
   代码仓库: https://github.com/Wiederholung/introduction-to-embodied-intelligence
+
+# Set a path/url to a favicon that will be displayed by the browser
+favicon_ico: /assets/images/favicon.ico
