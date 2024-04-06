@@ -1,7 +1,6 @@
 ---
 layout: default
 title: 2. 从感知到形态
-nav_order: 3
 ---
 
 # 2. 从感知到形态

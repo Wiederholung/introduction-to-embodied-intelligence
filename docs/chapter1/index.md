@@ -1,7 +1,6 @@
 ---
 layout: default
 title: 1. 无处不在的智能
-nav_order: 2
 ---
 
 # 1. 无处不在的智能
