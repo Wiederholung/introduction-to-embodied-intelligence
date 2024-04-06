@@ -9,3 +9,5 @@ aux_links:
 
 # Set a path/url to a favicon that will be displayed by the browser
 favicon_ico: /assets/images/favicon.ico
+
+search_enabled: true
