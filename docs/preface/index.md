@@ -1,5 +1,5 @@
 ---
-tittle: 前言
+title: 前言
 layout: default
 nav_order: 2
 ---
