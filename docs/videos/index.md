@@ -23,15 +23,15 @@ last_modified_date: 2024-04-08
 
 <table>
   <tr>
-    <td><img src="/assets/images/1-1.png" alt="1-1" style="width: 100%;"><center>图1 标题</center></td>
-    <td><img src="/assets/images/1-2.gif" alt="1-2" style="width: 100%;"></td>
-    <td><img src="/assets/images/1-3.gif" alt="1-4" style="width: 100%;"></td>
+    <td><img src="/introduction-to-embodied-intelligence/assets/images/1-1.png" alt="1-1" style="width: 100%;"><center>图1 标题</center></td>
+    <td><img src="/introduction-to-embodied-intelligence/assets/images/1-2.gif" alt="1-2" style="width: 100%;"></td>
+    <td><img src="/introduction-to-embodied-intelligence/assets/images/1-3.gif" alt="1-4" style="width: 100%;"></td>
   </tr>
 </table>
 <table>
   <tr>
-    <td><img src="/assets/images/1-4.gif" alt="1-4" style="width: 100%;"></td>
-    <td><img src="/assets/images/1-5.gif" alt="1-5" style="width: 100%;"></td>
+    <td><img src="/introduction-to-embodied-intelligence/assets/images/1-4.gif" alt="1-4" style="width: 100%;"></td>
+    <td><img src="/introduction-to-embodied-intelligence/assets/images/1-5.gif" alt="1-5" style="width: 100%;"></td>
   </tr>
 </table>
 

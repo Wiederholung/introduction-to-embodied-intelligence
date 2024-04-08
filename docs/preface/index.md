@@ -29,5 +29,5 @@ last_modified_date: 2024-04-08
 
 ## 视频合集
 
-- [本站](/docs/videos/)
+- [本站](/introduction-to-embodied-intelligence/docs/videos/)
 - [哔哩哔哩](https://www.bilibili.com/blackboard/html5mobileplayer.html?aid=385113866&bvid=BV1HZ4y1v7eX&cid=749543354&p=1)
