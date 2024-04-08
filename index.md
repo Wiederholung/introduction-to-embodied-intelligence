@@ -27,14 +27,53 @@ last_modified_date: 2024-04-07
 
 欢迎大家...
 
----
-
 ## 教材编写组
 
-> 例如：
-> ![satff](https://lsky.metattri.com/i/2024/04/05/660ecef5ef6f2.png)
+<!-- > 例如：
+> ![satff](https://lsky.metattri.com/i/2024/04/05/660ecef5ef6f2.png) -->
 
----
+### TBD
+
+<table>
+  <tr>
+    <td>
+      <img
+        src="/introduction-to-embodied-intelligence/assets/images/staffs/Huaping_Liu.jpg"
+        alt="刘华平"
+        style="border-radius: 50%; width: 150px; vertical-align: middle;"
+      />
+    </td>
+    <td style="padding-left: 20px; vertical-align: middle;">
+      <a
+        href="https://sites.google.com/site/thuliuhuaping/home?authuser=0"
+        target="_blank"
+      >刘华平</a>
+      <br />
+      清华大学
+      <br />
+      <a href="mailto:hpliu@tsinghua.edu.cn">hpliu@tsinghua.edu.cn</a>
+    </td>
+    <td>
+      <img
+        src="/introduction-to-embodied-intelligence/assets/images/staffs/Di_Guo.jpg"
+        alt="郭迪"
+        style="border-radius: 50%; width: 150px; vertical-align: middle;"
+      />
+    </td>
+    <td style="padding-left: 20px; vertical-align: middle;">
+      <a
+        href="https://sites.google.com/site/thuliuhuaping/home?authuser=0"
+        target="_blank"
+      >郭迪</a>
+      <br />
+      北京邮电大学
+      <br />
+      <a href="mailto:di.guo@bupt.edu.cn">di.guo@bupt.edu.cn</a>
+    </td>
+  </tr>
+</table>
+
+### TBD
 
 ## 联系我们
 
