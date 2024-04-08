@@ -2,6 +2,7 @@
 title: 简介
 layout: home
 nav_order: 1
+last_modified_date: 2024-04-07
 ---
 
 # 具身智能导论
@@ -31,7 +32,6 @@ nav_order: 1
 ## 教材编写组
 
 > 例如：
-> 
 > ![satff](https://lsky.metattri.com/i/2024/04/05/660ecef5ef6f2.png)
 
 ---
