@@ -37,24 +37,17 @@ last_modified_date: 2024-04-08
 
 ## 2.1. 感知 -> 形态
 
-<table>
-  <tr>
-    <td>
-      <iframe
-        style="width:100%;aspect-ratio:16/9;"
-        src="https://drive.google.com/file/d/1PtAa2c2QvZwwf2RbU5Eu7xc3j7eg2OHQ/preview"
-      ></iframe>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <iframe
-        style="width:100%;aspect-ratio:16/9;"
-        src="https://drive.google.com/file/d/1X1ucuvrpDpxYEJXKIf6OQnvYWLY2aNt6/preview"
-      ></iframe>
-    </td>
-  </tr>
-</table>
+<iframe
+  style="width:100%;aspect-ratio:16/9;"
+  src="https://drive.google.com/file/d/1PtAa2c2QvZwwf2RbU5Eu7xc3j7eg2OHQ/preview"
+></iframe>
+
+## 2.2. TBD
+
+<iframe
+  style="width:100%;aspect-ratio:16/9;"
+  src="https://drive.google.com/file/d/1X1ucuvrpDpxYEJXKIf6OQnvYWLY2aNt6/preview"
+></iframe>
 
 ## 12.1. TBD
 
