@@ -30,4 +30,4 @@ last_modified_date: 2024-04-08
 ## 视频合集
 
 - [本站](/introduction-to-embodied-intelligence/docs/videos/)
-- [哔哩哔哩](https://www.bilibili.com/blackboard/html5mobileplayer.html?aid=385113866&bvid=BV1HZ4y1v7eX&cid=749543354&p=1)
+- [哔哩哔哩](https://search.bilibili.com/all?keyword=%E3%80%8A%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E5%AF%BC%E8%AE%BA%E3%80%8B&from_source=webtop_search&spm_id_from=333.999&search_source=3)
